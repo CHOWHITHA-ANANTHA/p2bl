@@ -1,0 +1,112 @@
+Description:
+Design a modern, user-friendly website UI for Share Nest, a digital platform where users can donate, borrow, or request items in their community. The goal is to promote sharing, sustainability, and reducing waste. The design should feel trustworthy, eco-friendly, and community-driven.
+
+✅ Target Users:
+
+People who want to donate unused items
+
+People who need essential items but cannot afford them
+
+Local community members looking to borrow or share resources
+
+✅ Style & Branding:
+
+Clean, minimal, and modern layout
+
+Eco-friendly theme (green, blue, and white color palette)
+
+Rounded corners, soft shadows, lots of whitespace
+
+Friendly, approachable typography (Poppins, Inter, or Nunito)
+
+Use icons and illustrations to make the experience warm and engaging
+
+✅ Pages to Design:
+
+1. Landing Page / Home
+
+Hero section with headline:
+“Share Nest – A community for sharing, donating & borrowing”
+
+Call-to-action buttons:
+“Donate an Item” | “Request an Item”
+
+Illustrations of people sharing items
+
+Brief “How It Works” section (3 steps:
+Donate → Borrow → Request)
+
+Section showing impact (e.g., items reused, CO2 saved)
+
+2. Explore / Marketplace Page
+
+Grid/list of available items with photos, name, condition (new/used), and action buttons (Request, Borrow)
+
+Filters (Categories, Location, Availability, Condition)
+
+Search bar
+
+3. Donate Item Page
+
+Form for adding an item:
+Upload photo, title, description, condition, availability (temporary/permanent), category, location
+
+Preview of the item before posting
+
+4. Request Item Page
+
+Form for requesting an item:
+Title, description, urgency, location
+
+Suggested matches from nearby donations
+
+5. User Profile / Dashboard
+
+Profile info (name, photo, community score, contact option)
+
+Tabs: Donated Items, Borrowed Items, Requested Items
+
+Activity history & impact stats (e.g., waste reduced, items shared)
+
+6. Community / Local Network Page
+
+Map or list of local communities and available sharing circles
+
+Encourage collaboration (partner with NGOs, schools, etc.)
+
+7. About / SDGs Page
+
+Highlight supported SDGs:
+No Poverty, Sustainable Cities, Responsible Consumption, Climate Action, Partnerships
+
+Visual storytelling with icons and infographics
+
+✅ Key Features to Showcase in UI:
+
+Donate/request buttons always accessible
+
+Local community focus (map or neighborhood filter)
+
+Secure account system (profile + trust indicators)
+
+Notifications for requests and donations
+
+Environmental impact tracker (e.g., “You saved 5kg of waste!”)
+
+✅ UI Components:
+
+Navbar with logo + links (Home, Explore, Donate, Request, Community, Profile)
+
+Footer with quick links + SDG icons + contact info
+
+Card-style layout for items
+
+Modal popups for donation/request confirmation
+
+Mobile-first responsive design
+
+✅ Tone & Feel:
+
+Friendly, inclusive, and community-focused
+
+Encourage action: “Join, Share, Save the Planet”
